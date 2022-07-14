@@ -34,7 +34,7 @@
               <form class="pt-3 row">
                 <div class="col-lg-10 mx-auto">
                   <div class="form-group">
-                      <label for="">Select Once</label>
+                      <label for="">Are you Coach Or User</label>
                         <select class="form-control" id="exampleSelectGender">
                           <option>Coach</option>
                           <option>User</option>

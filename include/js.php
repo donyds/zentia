@@ -19,5 +19,4 @@
   <script src="js/Chart.roundedBarCharts.js"></script>
 
   <script src="vendors/select2/select2.min.js"></script>
-
   <script type="vendors/peity/peity.min.js"></script>
