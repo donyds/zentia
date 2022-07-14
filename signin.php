@@ -17,12 +17,12 @@
     <div class="container-fluid page-body-wrapper full-page-wrapper">
       <div class="content-wrapper d-flex align-items-center auth px-0">
         <div class="row w-100 mx-0">
-          <div class="col-lg-6">
+          <div class="col-lg-6 text-center">
              <div class="fix-position">
-             <div class="brand-logo text-center">
+             <div class="brand-logo">
                 <img src="images/zentia-logo1.png" alt="logo">
               </div>
-            <img src="images/signin.png">
+            <img class="pt-5" clas src="images/signin.png">
           </div>
           </div>
           
